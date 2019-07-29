@@ -2,6 +2,19 @@
 title: Jude Jang
 ---
 
+# Contact Info
+
+Phone: 334-332-8115
+Email: JudeJang7@gmail.com
+
+# Education
+
+Michigan State University, MI - Computer Science
+Expected: December 2020
+
+# Languages
+C++, Python
+
 # Projects
 
 [Stalking the Wumpus](https://webdev.cse.msu.edu/~jangjoo2/step4/welcome.php)

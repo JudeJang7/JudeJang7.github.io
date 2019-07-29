@@ -4,12 +4,12 @@ title: Jude Jang
 
 # Contact Info
 
-Phone: 334-332-8115
+Phone: 334-332-8115\
 Email: JudeJang7@gmail.com
 
 # Education
 
-Michigan State University, MI - Computer Science
+Michigan State University, MI - Computer Science\
 Expected: December 2020
 
 # Languages

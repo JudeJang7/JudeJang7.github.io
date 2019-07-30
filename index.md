@@ -13,10 +13,10 @@ Michigan State University, MI - Computer Science
 Expected: December 2020
 
 # Skills
-C/C++, Python, Javascript, CSS, HTML, SQL, ARM Assembly
-UML and Object Diagrams
-Doxygen
-Agile/Scrum/CRC
+C/C++, Python, Javascript, CSS, HTML, SQL, ARM Assembly  
+UML and Object Diagrams  
+Doxygen  
+Agile/Scrum/CRC  
 
 
 

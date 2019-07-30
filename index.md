@@ -4,8 +4,8 @@ title: Jude Jang
 
 # Contact Info
 
-Phone: 334-332-8115  
 Email: JudeJang7@gmail.com
+Phone: 334-332-8115  
 
 # Education
 

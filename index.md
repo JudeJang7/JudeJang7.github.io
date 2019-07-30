@@ -12,9 +12,17 @@ Phone: 334-332-8115
 Michigan State University, MI - Computer Science  
 Expected: December 2020
 
-# Languages
-C++  
-Python
+# Skills
+C/C++, Python, ARM Assembly, SQL  
+Visual Studio/Visual Studio Code  
+CLion, PyCharm, PHPStorm  
+Android Studio/Android SDK  
+Visual Paradigm (UML and Object Diagrams)  
+GIT  
+Doxygen  
+Agile/Scrum/CRC  
+Linux, macOS, Windows 10  
+
 
 # Projects
 

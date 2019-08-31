@@ -19,6 +19,7 @@ ARM Assembly
 UML and Object Diagrams  
 Doxygen  
 Agile/Scrum/CRC  
+Windows/MacOS/Linux
 
 
 
